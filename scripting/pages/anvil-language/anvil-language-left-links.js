@@ -5,7 +5,7 @@ export let json = {
             page: "anvil_docs_home"
         },
         {
-            text: "stop",
+            text: "Stop",
             page: "anvil_language_instruction__stop"
         }
     ]
